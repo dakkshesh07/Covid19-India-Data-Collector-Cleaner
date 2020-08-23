@@ -36,7 +36,7 @@ def covid():
         file = ("data" + name)
 
         #saving the pandas datafram as a csv file
-        df_main.to_csv(gg + '.csv')
+        df_main.to_csv(file + '.csv')
         
         #printing info
         print(str(t) + " data colected " + " Type >> " + name)
