@@ -3,8 +3,11 @@ This a data collector/cleaner program for covid19 in india which saves the resul
 
 How to use this program(this program can only be used as a import package for now)
 1.Download the package from github as a zip file
+
 2.Extract the file to unzip its contents
+
 3.open the folder and open your cmd/terminal in that folder to install the pip packages using the requirements.txt
+
 4.run the .py file in the folder
 
 5. when you will run the programm it will start the program and it will now ask a input for which state's data you want:
