@@ -17,6 +17,6 @@ How to use this program(this program can only be used as a import package for no
 After this the program will grab the data from www.covid19india.org and clean it and save it as a .csv file in the same folder
 If you run the program forever as it is a loop, then it will grab latest data every 1 min and save it by replacing the old one if it exsits
 
-thank you for using my program is your work, and i wish good luck for what ever you are working on
+thank you for using my program!
 
 if you have suggestions/issues then please email me at:- dakkshesh5@gmail.com and i will be very happy to help you
